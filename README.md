@@ -1,7 +1,6 @@
 ### Hi there 👋 I am Alokendu Mazumder !!!
 
-<!--
-**foxhound97/foxhound97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Currently I working with Ericsson Global Artificial Intellegnce Accelerator (GAIA) as a R&D Engineering Intern. 
 I am a Master's student @ IIT Jammu, persuing specialized CSE degree in feild of Data Science.
